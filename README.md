@@ -1,5 +1,7 @@
 # Atmosphere-NX-Updater
-A simple to use app to automatically update Atmosphere on Nintendo Switch
+A simple to use app to automatically update Atmosphere on Nintendo Switch.
+
+Currently, the app in under development, but should be done soon enough.
 
 Atmosphere is a CFW for Nintendo Switch by SciresM and can be downloaded here:
 
